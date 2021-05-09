@@ -15,3 +15,6 @@
  6. output.tf. It can be used to get and print some output
  
  
+ Folders:
+Temolates- Yaml Manifests needed for cluster autoscaler and metric sevre Installation
+ Policies- Policy used by cluster autoscaler
